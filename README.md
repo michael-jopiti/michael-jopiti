@@ -1,5 +1,4 @@
-## Hey! 🌱
-
+## Hey 🌿
 I'm Michael, 24, MSc student in BioInformatics and Computational Biology. Born in Lugano (Ticino, Switzerland), I'm currently studying in Bern and Fribourg.
 
 - 🔭 I’m currently working on automatization of MzMine in rust
