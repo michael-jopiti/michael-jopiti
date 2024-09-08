@@ -6,7 +6,7 @@ I'm Michael, 24, MSc student in BioInformatics and Computational Biology. Born i
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on -omics or AI implementations in Biology
 - 💬 Ask me about crazy ideas, graphic design or sports
-- 📫 How to reach me: Linkedin: [michael-jopiti](https://www.linkedin.com/in/michael-jopiti-430b30201/) or via [email](michael.jopiti@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/michael-jopiti-430b30201/) or via [email](michael.jopiti@gmail.com)
 - 😄 Pronouns: He/him
 <!--
 **michael-jopiti/michael-jopiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
