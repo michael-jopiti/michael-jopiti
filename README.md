@@ -1,6 +1,6 @@
 ## Hey 🌿
-I'm Michael, 24, MSc student in BioInformatics and Computational Biology.\n
-Born in Lugano (Ticino, Switzerland), I'm currently studying at [University of Bern](https://www.philnat.unibe.ch/studies/study_programs/master_s_in_bioinformatics_and_computational_biology/index_eng.html) and [University of Fribourg](https://www.unifr.ch/bio/en/studies/master/msc-in-bioinformatics/).\n
+I'm Michael, 24, MSc student in BioInformatics and Computational Biology. <br />
+Born in Lugano (Ticino, Switzerland), I'm currently studying at [University of Bern](https://www.philnat.unibe.ch/studies/study_programs/master_s_in_bioinformatics_and_computational_biology/index_eng.html) and [University of Fribourg](https://www.unifr.ch/bio/en/studies/master/msc-in-bioinformatics/). <br />
 Other than italian (mother tongue), I speak french and english fluently, and rusty german.
 
 - 🔭 I’m currently working on automatization of MzMine in rust
