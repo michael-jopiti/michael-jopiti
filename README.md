@@ -4,7 +4,7 @@ I'm Michael, 24, MSc student in BioInformatics and Computational Biology. Born i
 
 - 🔭 I’m currently working on automatization of MzMine in rust
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on -omics or AI implementations in Biology
+- 👯 I’m looking to collaborate on -omics and/or AI implementations in Biology
 - 💬 Ask me about crazy ideas, graphic design or sports
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/michael-jopiti-430b30201/) or via [email](michael.jopiti@gmail.com)
 - 😄 Pronouns: He/him
