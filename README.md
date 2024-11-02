@@ -1,12 +1,12 @@
 ## Hey 🌿
 I'm Michael, 24, MSc student in BioInformatics and Computational Biology. <br />
 Born in Lugano (Ticino, Switzerland), I'm currently studying at [University of Bern](https://www.philnat.unibe.ch/studies/study_programs/master_s_in_bioinformatics_and_computational_biology/index_eng.html) and [University of Fribourg](https://www.unifr.ch/bio/en/studies/master/msc-in-bioinformatics/). <br />
-Other than italian (mother tongue), I speak french and english fluently, and rusty german.
+Other than italian (mother tongue), I speak french and english fluently, and a rusty german.
 
-- 🔭 I’m currently working on automatization of MzMine in Rust
-- 🌱 I’m currently learning Rust and refreshing C++
+- 🔭 I’m currently working on LC-MS data pre-processing for automated analysis without human intervention ([autoMS](https://github.com/michael-jopiti/autoMS))
+- 🌱 I’m also diving into Rust and strenghtening my Python knowledge
+- 👯 I’m looking to collaborate on ML/DL applications on Mass Spectrometry
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/michael-jopiti-430b30201/) or via [email](michael.jopiti@gmail.com)
-- 😄 Pronouns: He/him
 
 
 
