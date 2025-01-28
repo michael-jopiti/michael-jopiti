@@ -5,7 +5,7 @@ Other than italian (mother tongue), I speak french and english fluently, and a r
 
 - 🔭 I’m currently working on LC-MS data pre-processing for automated analysis without human intervention ([autoMS](https://github.com/michael-jopiti/autoMS))
 - 🌱 I’m also diving into Rust and strenghtening my Python knowledge
-- 👯 I’m looking to collaborate on ML/DL applications on Mass Spectrometry
+- 👯 I’m looking to collaborate on ML/DL applications on Biological data
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/michael-jopiti-430b30201/) or via [email](michael.jopiti@gmail.com)
 
 
